@@ -20,8 +20,8 @@ API Test Result
 
 How to Run Tests
 Clone the repository:
-git clone https://github.com/your-username/playwright-assignment.git
-cd playwright-assignment
+git clone https://github.com/areebarooj/playwright_automation_testing.git
+cd playwright_automation_testing
 Install dependencies:
 npm install
 Run tests:
