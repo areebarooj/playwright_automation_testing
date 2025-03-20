@@ -4,8 +4,7 @@ This repository contains the automation scripts for the website automation testi
 Test Results
 Scenario 1: Verify User Login with Valid Credentials
 Login Test Result
-![image](https://github.com/user-attachments/assets/137c9bd6-f507-4a5e-88ea-64e26d1a8494)
-![image](https://github.com/user-attachments/assets/6a23c67e-0507-41ce-b047-2ee2ba9a4668)
+![image](https://github.com/user-attachments/assets/7494b867-0be1-4125-9437-5ea8c3716091)
 
 
 Scenario 2: User Places an Order and Checks Out Successfully
